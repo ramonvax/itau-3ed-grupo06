@@ -13,7 +13,7 @@ body {margin: 0;}
 
 #textoInicial {
   float: right;
-  width: 70%;
+  width: 100%;
   justify-content: right;
 }
 
@@ -22,14 +22,36 @@ display: flex;
 justify-content: center;
 }
 
-#noticias1{
+#noticias{
   display: flex;
+  justify-content: space-between;
+
+}
+
+#destaques{
+  display: flex;
+  width: 100%;
   justify-content: space-between;
 }
 
-#destaques1{
-  width: 10%;
-  object-fit: scale-down;
+.destaques{
+  border: grey 1px solid;
+  margin-left: 10px;
+  margin-right: 10px;
+  box-shadow: grey 2px 2px 3px; 
+  justify-content: center;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
 }
 
 ul.sidenav {
