@@ -1,6 +1,37 @@
 /* SIDENAV CSS */
 body {margin: 0;}
 
+#imagemIlustra{
+  display: flex;
+  justify-content: space-between;
+}
+
+#jornal {
+  float: left;
+  width: 40%;
+}
+
+#textoInicial {
+  float: right;
+  width: 70%;
+  justify-content: right;
+}
+
+#cabecalho-noticias{
+display: flex;
+justify-content: center;
+}
+
+#noticias1{
+  display: flex;
+  justify-content: space-between;
+}
+
+#destaques1{
+  width: 10%;
+  object-fit: scale-down;
+}
+
 ul.sidenav {
   font-family: "Arial", sans-serif;
   list-style-type: none;
@@ -50,6 +81,8 @@ div.content {
   
   div.content {margin-left: 0;}
 }
+
+
 
 @media screen and (max-width: 400px) {
   ul.sidenav li a {
