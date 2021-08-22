@@ -1,13 +1,16 @@
-/* SIDENAV CSS */
-body {margin: 0;
-  padding: 0;
-  height: 100%;}
-
+/* PAGINA INICIAL */
 #jornal {
-  width: 35%;
-  vertical-align: baseline;
+  width: 100%;  
 }
-
+.tituloInicial {
+  text-align: center
+}
+.tabImgNews {
+  width: 30%;
+}
+.tabTextNews {
+  width: 70%;
+}
 .quadroinicio{
   justify-content: center;
 }
@@ -74,7 +77,7 @@ img {
   display: inline-block;
   line-height: 1.8;
 }
-
+/* SIDENAV CSS */
 ul.sidenav {
   font-family: "Arial", sans-serif;
   font-size: 20px;
