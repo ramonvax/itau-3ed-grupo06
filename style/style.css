@@ -226,3 +226,12 @@ div.content {
 .text_dir {
   padding-right: 10%;
 }
+
+/* PAGINA SOBRE */
+.about_list {
+  list-style-type: none;  
+}
+.link_list {
+  text-decoration: none;
+  color: blue;
+}
