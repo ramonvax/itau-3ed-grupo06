@@ -134,11 +134,31 @@ div.content {
   }
 
 /* CSS PAGINA SOBRE */
-.sobre_colaborador {
+.sobre_colaborador {  
+  text-align: center;
   border: 1px solid;
   border-radius: 1rem;
   margin: 10%;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 .img_colaborador {
-  width: 50%;
+  width: 100%;
+}
+.nome_colaborador {
+  padding-bottom: 2rem;
+}
+.linkedin_logo {
+  width: 50%;  
+}
+.lista_colaborador {
+  list-style-type: none
+}
+.tabela_imagem {
+  width: 40%;
+}
+.tabela_texto {
+  width: 60%;
 }
