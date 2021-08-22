@@ -72,7 +72,7 @@ img {
   margin-right: auto;
   width: 35%;
   text-decoration-style: solid;
-  text-align: center;
+  text-align: left;
   border-bottom: 1.8px solid currentColor;
   display: inline-block;
   line-height: 1.8;
@@ -85,7 +85,7 @@ ul.sidenav {
   margin: 0;
   padding: 5px;
   padding-right: 5px;
-  padding-top: 20px;
+  padding-top: 150px;
   width: 20%;
   background-color: #f1f1f1;
   position: fixed;
