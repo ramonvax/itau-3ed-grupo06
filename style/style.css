@@ -1,8 +1,5 @@
 /* DESIGN GERAL */
 body {
-<<<<<<< Updated upstream
-  font-family: "Urbanist", sans-serif;
-=======
   font-family: 'Urbanist', sans-serif;
   margin-top: 0; padding-top: 0; margin-bottom: 0; padding-bottom: 0;
 }
@@ -24,7 +21,6 @@ body {
 }
 .logo_footer {    
   width: 12em;
->>>>>>> Stashed changes
 }
 
 .allButFooter {
@@ -66,11 +62,6 @@ body {
   text-align: center;
 }
 
-<<<<<<< Updated upstream
-#noticias {
-  display: flex;
-  justify-content: space-between;
-=======
 #noticias{
   display: grid;
   width: 100%;
@@ -78,8 +69,7 @@ body {
   grid-auto-rows: minmax(100px, auto);
   grid-gap: 10px;
 
->>>>>>> Stashed changes
-}
+git }
 
 #destaques {
   display: flex;
