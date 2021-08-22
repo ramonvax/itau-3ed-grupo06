@@ -3,30 +3,30 @@ body {margin: 0;
   padding: 0;
   height: 100%;}
 
-#imagemIlustra{
-  display: block;
-  justify-content: space-between;
-  width: 100%;
-}
-
 #jornal {
-  float: left;
-  width: 40%;
+  width: 35%;
+  vertical-align: baseline;
 }
 
-#textoInicial {
-  float: right;
-  width: 100%;
+.quadroinicio{
   justify-content: center;
 }
 
-.textoInicial{
-    text-align: justify;
+#textoimagem{
+  display: grid;
+}
+
+.textoimagem{
+  display: grid;
+  justify-content: center;
 }
 
 #cabecalho-noticias{
-display: flex;
-justify-content: center;
+display: block;
+}
+
+.cabecalho-noticias{
+  text-align: center;
 }
 
 #noticias{
