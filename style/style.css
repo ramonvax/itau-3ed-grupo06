@@ -157,25 +157,38 @@ div.content {
   border-radius: 1rem;
   margin: 10%;
   padding-top: 1rem;
-  padding-bottom: 2rem;
+}
+.colab_esq {
   padding-left: 1rem;
+}
+.colab_dir {
   padding-right: 1rem;
 }
 .img_colaborador {
-  width: 100%;
+  padding-bottom: 30%;
+  width: 90%;  
 }
 .nome_colaborador {
   padding-bottom: 2rem;
 }
-.linkedin_logo {
+.linkedin_logo { 
+  padding-left: 25%; 
+  padding-right: 25%;
   width: 50%;  
 }
 .lista_colaborador {
   list-style-type: none
 }
 .tabela_imagem {
-  width: 40%;
+  width: 40%;  
 }
 .tabela_texto {
+  /* padding-right: 10%; */
   width: 60%;
+}
+.text_esq {
+  padding-right: 10%;
+}
+.text_dir {
+  padding-right: 10%;
 }
