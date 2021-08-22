@@ -3,22 +3,6 @@ body {
   font-family: "Urbanist", sans-serif;
 }
 
-/* RODAPÈ */
-footer {
-  bottom: 0;
-  text-align: right;
-  background-color: #0ee136; 
-}
-.text_footer {
-  width: 55%;
-  text-align: center;
-  margin-left: 15%;
-  margin-right: 5%;
-}
-.logo_footer {
-  width: 12em;
-}
-
 /* PAGINA INICIAL */
 #jornal {
   width: 100%;
