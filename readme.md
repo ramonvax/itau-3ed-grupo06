@@ -15,7 +15,7 @@
 
 ## 🚀 Tecnologias 
 
-Tecnologias que utilizamos para desenvolver este web client:
+Tecnologias que utilizamos para desenvolver este web-site:
 
 - [VSCode](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
