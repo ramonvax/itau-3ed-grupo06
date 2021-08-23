@@ -244,3 +244,22 @@ div.content {
   text-decoration: none;
   color: blue;
 }
+
+/* CONTATO */
+
+form {
+  border-radius: 1rem;  
+}
+
+.campo {      
+  margin-right: 1em;
+  margin-left: 1em;
+  margin-bottom: 1em;  
+}
+
+.botao {
+  font-size: 1.2em;
+  background: #0ee136;    
+  cursor: pointer;
+  margin-left: 40%;
+}
