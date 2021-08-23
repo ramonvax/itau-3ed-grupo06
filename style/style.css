@@ -10,8 +10,10 @@ body {
   bottom:0;
   width:100%;  
   text-align: right;  
-  background-color: #0ee136;    
- 
+  background-color: #0ee136; 
+}
+.footer_inicial {
+  margin-top: 10rem;
 }
 .text_footer {
   width: 55%;
