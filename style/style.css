@@ -36,6 +36,9 @@ body {
 .tituloInicial {
   text-align: center;
 }
+.textoInicial {
+  font-size: 1.14rem;
+}
 .tabImgNews {
   width: 30%;
 }
